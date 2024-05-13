@@ -1,0 +1,7 @@
+Koi bhi cheez jo Variable m assign ki jati hai wo sanb literals hotey hai.
+keyword are predifined word that have some specific meaning. In java there are 50 keyword.
+48+2{goto, const}+3{true, false, null}=53[Identifier]
+
+variable- my, my_java, my_java_demo
+method- my(), myJava, myJavaDemo
+class/Interface- My, MyJava, MyJavaDemo

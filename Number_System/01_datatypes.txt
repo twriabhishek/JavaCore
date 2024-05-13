@@ -1,0 +1,22 @@
+Java m datatypes basically 2 types k hotey hai.
+1)Primitive datatypes
+2)Non-Primitive datatypes
+
+1)Primitive datatypes{Primitive datatypes ka size fix hota hai}
+boolean: 1bit[decide by jvm]  
+
+char: [2 byte]
+
+byte: [1 byte]
+short: [2 byte]
+int: [4 byte]
+long: [8 byte]
+
+float: [4 byte]
+double: [8 byte]
+
+2)Non-Primitive datatypes{N-Primitive datatypes ka size fix nahi hota hai}
+String, Array, Stack, Queue, structure, enum etc.....
+
+*)Har ek datatypes k liye ek wrapper class hoti hai mainly datatypes small letter s start hotey hai wahi wrapper 
+class capital letter s hotey hai.

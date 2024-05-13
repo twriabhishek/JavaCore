@@ -1,0 +1,35 @@
+Variables are the name of memory location that can store data.
+
+Scope ke according hum Variables ko 3 types m divide kar saktey hai:- 
+1)Local Variables: Jinki life kewal methods takk hoti hai.
+2)Instance Variables: Jinki life complete class m hoti hai.
+3)Static Variables: 
+
+
+*)Local Variables:- 
+Declairation- Inside Block, method or constructor
+Scope- Inside Block, method or constructor
+When Variables gets allocated- When Block, method or constructor called
+Stored memory- stack memory
+Default value- None
+Access Specifier- can not be used
+How to access- Within Block, method or constructor
+
+*)Instance Variables:- 
+Declairation- Inside class Outside Block, method or constructor
+Scope- within class
+When Variables gets allocated- when object is created
+Stored memory- Heap Memory
+Default value- Default value hoti hai
+Access Specifier- can be used
+How to access- Directly, making instance of class
+
+*)Static Variables:- 
+Declairation- within class but using static keyword.
+Scope- similar to instance Variables
+When Variables gets allocated- when we run program or .class file loaded
+Stored memory- non-heap memory/static memory
+Default value- similar to instance Variables
+Access Specifier- can be used
+How to access- Within Block, method or constructor, by method.Variable
+
