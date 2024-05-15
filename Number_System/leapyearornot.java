@@ -4,7 +4,7 @@ public class leapyearornot {
     public static boolean isLeap(int year) {
         int duplicate = year;
         if (duplicate % 100 == 0) {
-            if (duplicate % 4 == 0) {
+            if (duplicate % 400 == 0) {
                 return true;
             } else {
                 return false;
